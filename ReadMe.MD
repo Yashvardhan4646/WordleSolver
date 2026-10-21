@@ -36,7 +36,7 @@ No third-party packages are required.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/Yashvardhan4646/WordleSolver.git
 ```
 
 Replace the URL with your repository's actual URL.
